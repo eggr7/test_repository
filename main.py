@@ -1,5 +1,6 @@
 import tkinter as tk
 from tkinter import messagebox
+from config import variablesensible
 
 class Calculadora:
     def __init__(self, root):
